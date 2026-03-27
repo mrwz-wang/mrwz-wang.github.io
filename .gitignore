@@ -12,9 +12,6 @@ public/
 db.json
 
 # Media files (store in Qiniu Cloud instead)
-source/gallery/**
-source/videos/**
-source/img/**
 mediaFiles/
 
 # IDE and editor files
